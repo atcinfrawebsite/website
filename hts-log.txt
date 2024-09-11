@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2024 01:04:35 at https://crowdytheme.com/wp/arolax/film-production-agency/home-page/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://crowdytheme.com/wp/arolax/film-production-agency/home-page/ -O1 "C:\My Web Sites\atcco" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:05:01	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/film-production-agency/wp-content/themes/arolax/assets/imgs/writer/go-top.png (from https://crowdytheme.com/wp/arolax/film-production-agency/wp-content/cache/min/23/wp/arolax/film-production-agency/wp-content/themes/arolax/assets/css/master.css?ver=1725451752)
+01:05:01	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/film-production-agency/home-page/.part (from https://crowdytheme.com/wp/arolax/film-production-agency/wp-content/cache/min/23/wp/arolax/film-production-agency/wp-content/plugins/wcf-addons-pro/assets/js/wcf-addons-pro.js?ver=1725451752)
+01:05:01	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/film-production-agency/home-page/-negative.svg (from https://crowdytheme.com/wp/arolax/film-production-agency/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+01:05:02	Error: 	"Not Found" (404) at link https://crowdytheme.com/wp/arolax/film-production-agency/home-page/OPR/ (from https://crowdytheme.com/wp/arolax/film-production-agency/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 70 links scanned, 65 files written (1614604 bytes overall) [536455 bytes received at 19868 bytes/sec], 1843770 bytes transferred using HTTP compression in 50 files, ratio 19%, 23.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
